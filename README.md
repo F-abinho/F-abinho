@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @F-abinho
-- 👀 I’m interested in VUI/Python
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Chatbots, UX Writing and VUI
+- 🌱 I’m currently learning everything that i can
 - 💞️ I’m looking to collaborate on projetos delicinha
 - 📫 How to reach me fabioferrandis@outlook.com
 
